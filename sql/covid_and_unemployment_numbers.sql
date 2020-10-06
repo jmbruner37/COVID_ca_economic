@@ -15,3 +15,10 @@ employment int,
 unemployment int, 
 unemployment_rate float
 );
+
+create table home_price(
+index int primary key, 
+county text, 
+month text, 
+price int
+);

@@ -47,7 +47,7 @@ def covid():
 
     session.close()
 
-    # Create a dictionary from the row data and append to a list of all_passengers
+    # Create a dictionary from the row data and append to a list of data
     all_months = []
     for county, month, new_cases, new_deaths in results:
         covid_case_dict = {}
@@ -71,7 +71,7 @@ def unemployment():
 
     session.close()
 
-    # Create a dictionary from the row data and append to a list of all_passengers
+    # Create a dictionary from the row data and append to a list of data
     all_months_unemp = []
     for county, month, labor_force, employment, unemployment, unemployment_rate in results:
         unemp_num_dict = {}
@@ -92,13 +92,13 @@ def housing():
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
-#return a list of all the info in the sql table, such as county, month, labor_force, employment, unemployment, unemployment_rate
+#return a list of all the info in the sql table, such as county, month and price 
 # Query all the data 
     results = session.query(Home_price.county, Home_price.month, Home_price.price).all()
 
     session.close()
 
-    # Create a dictionary from the row data and append to a list of all_passengers
+    # Create a dictionary from the row data and append to a list of data
     all_months_home_price = []
     for county, month, price in results:
         home_price_dict = {}
