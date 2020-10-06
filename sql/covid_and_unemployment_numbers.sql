@@ -6,7 +6,7 @@ new_cases int,
 new_deaths int
 );
 
-create table umemployment_numbers(
+create table unemployment_numbers(
 index int primary key, 
 county text, 
 month text, 
