@@ -18,6 +18,7 @@ Base.prepare(engine, reflect=True)
 #reference the tables 
 Covid_cases = Base.classes.covid_cases
 Unemployment_numbers = Base.classes.unemployment_numbers
+Home_price = Base.classes.home_price
 
 
 app = Flask(__name__)
@@ -30,7 +31,7 @@ def welcome():
         f"Available Routes:<br/>"
         f"/api/v1.0/covid_cases<br/>"
         f"/api/v1.0/unemployment_numbers<br/>"
-        f"/api/v1.0/housing_market<br/>"
+        f"/api/v1.0/home_price<br/>"
         
        )
 
@@ -86,30 +87,27 @@ def unemployment():
 
 
 # #set up housing data api route
-# @app.route("/api/v1.0/housing_market")
-# def housing():
-#     # Create our session (link) from Python to the DB
-#     session = Session(engine)
+@app.route("/api/v1.0/home_price")
+def housing():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
 
-# #return a list of all the info in the sql table, such as county, month, labor_force, employment, unemployment, unemployment_rate
-# # Query all the data 
-#     results = session.query(Unemployment_numbers.county, Unemployment_numbers.month, Unemployment_numbers.labor_force, Unemployment_numbers.employment, Unemployment_numbers.unemployment, Unemployment_numbers.unemployment_rate).all()
+#return a list of all the info in the sql table, such as county, month, labor_force, employment, unemployment, unemployment_rate
+# Query all the data 
+    results = session.query(Home_price.county, Home_price.month, Home_price.price).all()
 
-#     session.close()
+    session.close()
 
-#     # Create a dictionary from the row data and append to a list of all_passengers
-#     all_months_unemp = []
-#     for county, month, labor_force, employment, unemployment, unemployment_rate in results:
-#         unemp_num_dict = {}
-#         unemp_num_dict["county"] = county
-#         unemp_num_dict["month"] = month
-#         unemp_num_dict["labor force"] = labor_force
-#         unemp_num_dict["employment"] = employment
-#         unemp_num_dict["unemployment"] = unemployment
-#         unemp_num_dict["unemployment rate"] = unemployment_rate
-#         all_months_unemp.append(unemp_num_dict)
+    # Create a dictionary from the row data and append to a list of all_passengers
+    all_months_home_price = []
+    for county, month, price in results:
+        home_price_dict = {}
+        home_price_dict["county"] = county
+        home_price_dict["month"] = month
+        home_price_dict["price"] = price
+        all_months_home_price.append(home_price_dict)
 
-#     return jsonify(all_months_unemp)
+    return jsonify(all_months_home_price)
 
 
     
