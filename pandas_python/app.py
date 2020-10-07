@@ -4,7 +4,8 @@ import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
+
 
 #set up connection to sql through pgadmin
 connection_string = "postgres:924runner@localhost:5432/covid_cases" #postgres:insert password
@@ -26,17 +27,10 @@ app = Flask(__name__)
 #set up paths for api
 @app.route("/")
 def welcome():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/covid_cases<br/>"
-        f"/api/v1.0/unemployment_numbers<br/>"
-        f"/api/v1.0/home_price<br/>"
-        
-       )
+    return render_template("index.html")
 
 #covid case data api route
-@app.route("/api/v1.0/covid_cases")
+@app.route("/covid_cases")
 def covid():
     # Create our session (link) from Python to the DB
     session = Session(engine)
@@ -60,7 +54,7 @@ def covid():
     return jsonify(all_months)
 
 #set up unemployment numbers data api route
-@app.route("/api/v1.0/unemployment_numbers")
+@app.route("/unemployment_numbers")
 def unemployment():
     # Create our session (link) from Python to the DB
     session = Session(engine)
@@ -87,7 +81,7 @@ def unemployment():
 
 
 # #set up housing data api route
-@app.route("/api/v1.0/home_price")
+@app.route("/home_price")
 def housing():
     # Create our session (link) from Python to the DB
     session = Session(engine)
