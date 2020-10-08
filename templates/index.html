@@ -19,11 +19,10 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-2">
         <div class="well">
-          <h5>Test Subject ID No.:</h5>
-          
-          <select name="selSubject" id="selSubject" onchange="dropdown(this.value)"></select>
+          <h5>Select Month:</h5>
+          <select name="selMonth" id="selMonth" onchange="dropdown(this.value)"></select>
      
         </div>
         <div class="panel panel-primary">
@@ -32,29 +31,31 @@
           </div>
          
           <div id="sample-metadata" class="panel-body" onchange="dropdown(this.value)"></div>
-        
-
         </div>
       </div>
-      <div class="col-md-9">
-        <div id="scatter"></div>
+      
+     
+      <div class="col-md-10">
+        <div id="scatter1"></div>
       </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
+
+      <div class="col-md-2"></div>
+      <div class="col-md-10">
+        <div id="scatter2"></div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
-        <div id="bubble"></div>
+        <div id="pie"></div>
       </div>
     </div>
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="app2.js"></script>
-  <script src="app.py"></script>
-  <script src="data/samples.json"></script>
+  <script type="text/javascript" src="../app2.js"></script>
+  <script src="../app.py"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   
 </body>
 
