@@ -1,10 +1,9 @@
-#import libraries
 import numpy as np
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 
 #set up connection to sql through pgadmin
 connection_string = "postgres:test123@localhost:5432/covid_cases" #postgres:insert password
@@ -19,25 +18,16 @@ Base.prepare(engine, reflect=True)
 Covid_cases = Base.classes.covid_cases
 Unemployment_numbers = Base.classes.unemployment_numbers
 Home_price = Base.classes.home_price
-County_population = Base.classes.county_population
-
 
 app = Flask(__name__)
 
 #set up paths for api
 @app.route("/")
 def welcome():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/covid_cases<br/>"
-        f"/api/v1.0/unemployment_numbers<br/>"
-        f"/api/v1.0/home_price<br/>"
-        f"/api/v1.0/county_population<br/>"
-       )
+    return render_template("index.html")
 
 #covid case data api route
-@app.route("/api/v1.0/covid_cases")
+@app.route("/covid_cases")
 def covid():
     # Create our session (link) from Python to the DB
     session = Session(engine)
@@ -61,7 +51,7 @@ def covid():
     return jsonify(all_months)
 
 #set up unemployment numbers data api route
-@app.route("/api/v1.0/unemployment_numbers")
+@app.route("/unemployment_numbers")
 def unemployment():
     # Create our session (link) from Python to the DB
     session = Session(engine)
@@ -88,7 +78,7 @@ def unemployment():
 
 
 # #set up housing data api route
-@app.route("/api/v1.0/home_price")
+@app.route("/home_price")
 def housing():
     # Create our session (link) from Python to the DB
     session = Session(engine)
@@ -110,8 +100,9 @@ def housing():
 
     return jsonify(all_months_home_price)
 
+
 # #set up county population api route
-@app.route("/api/v1.0/county_population")
+@app.route("/county_population")
 def population():
     # Create our session (link) from Python to the DB
     session = Session(engine)
@@ -133,8 +124,6 @@ def population():
 
     return jsonify(CA_county_population)
     
-
-
 if __name__ == '__main__':
     app.run(debug=True)
 
