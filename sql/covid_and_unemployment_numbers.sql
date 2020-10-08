@@ -19,6 +19,6 @@ unemployment_rate float
 create table home_price(
 index int primary key, 
 county text, 
-month text, 
+date date , 
 price int
 );
