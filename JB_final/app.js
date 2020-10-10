@@ -106,7 +106,7 @@ d3.csv("final_joined_data.csv").then(function(joinedData) {
 
   chartGroup.append("text")
   .attr("transform", `translate(${width / 2}, ${height + margin.bottom+ 37})`)
-    .classed("price-text text", true)
+    .classed("unemployment-text text", true)
     .text("Unemployment Rates");
 }).catch(function(error) {
   console.log(error);
