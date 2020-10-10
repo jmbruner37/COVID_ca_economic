@@ -100,6 +100,7 @@ Plotly.newPlot("scatter2", chartData2 , layout2);
 
 
 
+
 //  Initial setup to show data for March
 function init() {
   
