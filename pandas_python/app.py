@@ -31,7 +31,7 @@ app = Flask(__name__)
 #set up paths for api
 @app.route("/")
 def welcome():
-    return render_template("index.html")
+    return render_template("index2.html")
 
 #covid case data api route
 @app.route("/covid_cases_date")
