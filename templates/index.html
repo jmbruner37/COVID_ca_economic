@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>California Covid-19 and Economic Charts</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>California Covid-19 and Economic Charts</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Select Month:</h5>
+          <select name="selMonth" id="selMonth"></select>
+     
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Graphs</h3>
+          </div>
+          <ul>
+          <li>Covid Cases vs Unemployment Scatterplot</li>
+          <li>Covid Cases vs Home Prices Scatterplot</li>
+        </ul>
+        </div>
+      </div>
+      
+     
+      <div class="col-md-10">
+        <div id="scatter1"></div>
+      </div>
+
+      <div class="col-md-2"></div>
+      <div class="col-md-10">
+        <div id="scatter2"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="line"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script type="text/javascript" src="../mike_logic.js"></script>
+  <script src="../mike_app.py"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  
+</body>
+
+</html>
