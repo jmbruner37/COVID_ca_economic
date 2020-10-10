@@ -53,7 +53,6 @@ console.log(filteredData)
 }
 
 
-
   console.log("Home Prices: ", home_prices)
   console.log("Cases: ", cases)
   console.log("Cases Per 100k Population: ", casesPer100k)
@@ -97,7 +96,6 @@ var layout2 = {
 Plotly.newPlot("scatter1", chartData1, layout1);
 Plotly.newPlot("scatter2", chartData2 , layout2);
 })}
-
 
 
 
