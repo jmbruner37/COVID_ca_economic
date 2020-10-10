@@ -102,10 +102,10 @@ d3.csv("final_joined_data.csv").then(function(joinedData) {
   chartGroup.append("text")
   .attr("transform", `translate(${width / 2}, ${height + margin.top + 20})`)
     .classed("new_deaths-text text", true)
-    .text("New COVID Deaths_Unemployment Rates");
+    .text("New COVID Deaths");
 
   chartGroup.append("text")
-  .attr("transform", `translate(${width / 2}, ${height + margin.bottom+ 37})`)
+  .attr("transform", `translate(${width / 2}, ${height + margin.top+ 37})`)
     .classed("unemployment-text text", true)
     .text("Unemployment Rates");
 }).catch(function(error) {
