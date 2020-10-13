@@ -1,0 +1,37 @@
+body {background-color: rgb(176, 219, 230);}
+h1 {color: blue;}
+h5 {color:brown;}
+h3 {color: black;
+    text-align: center;
+    margin-top: 75}
+
+p {color: black;
+text-align: center;}
+
+#chart {margin-top: 75}
+
+.line2 {
+    fill: none;
+    stroke-width: 2px;
+  }
+  
+  .green {
+    stroke: green;
+  }
+  
+  .blue {
+    stroke: blue;
+  }
+  
+  .text {
+    font-size: 16px;
+    text-anchor: middle;
+  }
+  
+  .unemployment-text {
+    fill: blue;
+  }
+  
+  .new_deaths-text {
+    fill: green;
+  }

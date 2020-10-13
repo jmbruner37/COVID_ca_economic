@@ -1,0 +1,2032 @@
+[
+  {
+    "county": "Los Angeles County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 648559
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 622347
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 756030
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 399386
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 364813
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 1151196
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 877331
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 392257
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 707565
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 265778
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 231603
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 611827
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 1440901
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 1389715
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 384497
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 330957
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 658258
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 224023
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 647458
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 593625
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 460404
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 517122
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 628403
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 835807
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 280456
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 1148019
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 329113
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 469364
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 484138
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 275840
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 242600
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 232744
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 274300
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 687706
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 325276
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 474067
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 320511
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 393869
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 290395
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 253315
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 236849
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 296106
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 638709
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 328446
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 216615
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 343280
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 173668
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 257934
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 238587
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 240312
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 278682
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 355773
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 295929
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 465740
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 278697
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 130581
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 241664
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Sat, 29 Feb 2020 00:00:00 GMT", 
+    "price": 429727
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 653908
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 626600
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 760912
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 400102
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 367028
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 1164290
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 881064
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 395515
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 709355
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 267251
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 233343
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 612419
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 1439253
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 1398185
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 385937
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 333104
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 660048
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 225652
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 651125
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 596305
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 462513
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 519169
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 630422
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 841515
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 282837
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 1155208
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 326937
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 471517
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 485283
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 276438
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 244803
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 235126
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 276121
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 689546
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 325442
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 474007
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 322652
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 396641
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 292234
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 254784
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 237849
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 294515
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 643500
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 329925
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 216580
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 343133
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 174135
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 258604
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 239106
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 240223
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 278524
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 356253
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 296051
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 466709
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 278827
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 130275
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 241652
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Tue, 31 Mar 2020 00:00:00 GMT", 
+    "price": 429682
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 658518
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 629514
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 764278
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 402010
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 369653
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 1171084
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 881006
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 397844
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 713545
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 269209
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 235196
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 613582
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 1440106
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 1395431
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 388384
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 334509
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 658932
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 227600
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 656568
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 598475
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 463124
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 521062
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 632797
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 844090
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 283949
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 1163019
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 326141
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 470927
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 487938
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 277990
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 245321
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 237691
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 277765
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 693385
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 325818
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 472984
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 325106
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 398353
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 293667
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 256900
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 238458
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 293022
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 641025
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 332386
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 216517
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 342489
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 174458
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 259165
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 239151
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 240436
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 278518
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 356775
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 295998
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 467230
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 278523
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 129927
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 241489
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Thu, 30 Apr 2020 00:00:00 GMT", 
+    "price": 429366
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 660247
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 633148
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 765411
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 404565
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 370722
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 1176628
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 879054
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 399067
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 714058
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 270908
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 236252
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 615640
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 1433474
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 1384869
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 389576
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 337503
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 656157
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 229101
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 661520
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 603522
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 464220
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 521654
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 632094
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 846648
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 283974
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 1168348
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 325956
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 470356
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 490221
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 279123
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 245625
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 239320
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 279029
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 697741
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 327266
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 473570
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 327777
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 401210
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 295073
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 258597
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 239634
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 292241
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 638756
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 334864
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 216422
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 341605
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 174558
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 259518
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 239273
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 240667
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 278418
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 356664
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 295796
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 467555
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 278382
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 129660
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 241623
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Sun, 31 May 2020 00:00:00 GMT", 
+    "price": 428939
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 661463
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 635417
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 766346
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 407123
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 372515
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 1186198
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 877874
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 399680
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 715482
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 271942
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 237146
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 617934
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 1425660
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 1376833
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 390062
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 340197
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 652802
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 231204
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 663913
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 607930
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 464741
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 523559
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 633522
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 849202
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 284763
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 1178070
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 325746
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 470936
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 493486
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 279696
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 246603
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 240965
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 280505
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 701412
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 329325
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 477542
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 328871
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 404811
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 296192
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 259926
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 240238
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 291804
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 640233
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 336381
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 216298
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 340593
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 174508
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 259727
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 239489
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 240933
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 278385
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 356411
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 295677
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 467755
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 278024
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 129646
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 241602
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Tue, 30 Jun 2020 00:00:00 GMT", 
+    "price": 428551
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 666544
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 638576
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 769283
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 409971
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 375547
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 1201319
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 881576
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 402025
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 720368
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 273940
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 238985
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 621281
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 1417406
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 1375257
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 392678
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 344481
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 651350
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 234398
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 665798
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 613431
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 463868
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 527113
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 636569
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 856794
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 287809
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 1193516
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 327220
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 471606
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 497980
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 281258
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 249377
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 243236
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 282945
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 707770
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 332817
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 484792
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 328469
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 410220
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 298019
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 260910
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 242027
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 291860
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 645599
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 338943
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 217062
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 339405
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 175007
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 259758
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 241074
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 242678
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 279875
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 359349
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 296367
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 469551
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 279763
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 130171
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 241313
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Fri, 31 Jul 2020 00:00:00 GMT", 
+    "price": 428224
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 674103
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 643903
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 775797
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 413913
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 379973
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 1226635
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 890997
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 406197
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 731238
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 277022
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 241167
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 624692
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 1416874
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 1384585
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 395907
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 347812
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 653186
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 237426
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 670339
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 618457
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 463728
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 531521
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 640861
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 871444
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 290806
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 1212310
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 329952
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 472727
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 505154
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 284154
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 253328
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 246599
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 285769
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 715605
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 335691
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 494397
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 328612
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 416662
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 299591
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 261708
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 243361
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 292342
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 652590
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 342717
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 218011
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 337535
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 175672
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 259896
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 242818
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 244669
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 281976
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 363574
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 297871
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 471641
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 281967
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 130990
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 240355
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Mon, 31 Aug 2020 00:00:00 GMT", 
+    "price": 428056
+  }
+]

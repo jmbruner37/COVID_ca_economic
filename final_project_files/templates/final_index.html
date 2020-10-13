@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>California Covid-19 and Economic Charts</title>
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel = "stylesheet" href = "../static/styles.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Covid-19 and Economic Charts</h1>
+        <p>Use the dropdown menu to explore the COVID data.</p>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h4>Select the Month</h4>
+          <select name="selMonth" id="selMonth"></select>
+          <h5>(Graphs created using Plotly, D3, and Metrics Graphics)</h5>
+        </div>
+      </div>
+      
+     
+      <div class="col-md-10">
+        <div id="scatter1"></div>
+      </div>
+
+      <p>.</p>
+
+      <div class="row">
+        <div class="col-md-2"></div>
+      <div class="col-md-10">
+        <div id="scatter2"></div>
+      </div>
+
+      <p>.</p>
+      <div class="row">
+        <div class="col-md-2"></div>      
+        <div class="col-md-10 jumbotron text-center">
+        <div id="chart"></div></div></div>      </div>
+
+
+        <div class="row">
+          <div class="col-md-2">
+            </div>       
+          <div class="col-md-10 jumbotron text-center">
+          <div id="chart2"></div></div></div>      </div>
+
+        
+          <div class="row">
+            <div class="col-md-2">
+              </div>       
+            <div class="col-md-10 jumbotron text-center">
+            <div id="chart3"></div></div></div>      </div>
+     
+        <h3>Covid Deaths and Employment Rate by Month (2020)
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+        <script type="text/javascript" src="../static/app.js"></script></h3>
+      </div></div></div>    
+
+      <p>.</p>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js'></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/metrics-graphics/2.15.6/metricsgraphics.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script type="text/javascript" src="../static/metrics_graphics_logic.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script type="text/javascript" src="../static/mike_logic.js"></script>
+  
+  <script src="../final_app.py"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  
+</body>
+
+</html>
+

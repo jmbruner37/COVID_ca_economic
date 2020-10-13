@@ -1,39 +1,6 @@
-body {
-    background-color: rgb(176, 219, 230);
-  }
-  h1 {
-    color: blue;
-  }
-  h5 {
-    color: red;
-  }
-  p {
-    color: red;
-  }
+body {background-color: rgb(176, 219, 230);}
+h1 {color: blue;}
+h5 {color: red;}
+p {color: red;}
 
-/* 
-    .line {
-    fill: none;
-    stroke-width: 2px;
-  }  */
-  
-  .green {
-    stroke: green;
-  }
 
-  .blue {
-    stroke: blue;
-  }
-
-  .text {
-    font-size: 16px;
-    text-anchor: middle;
-  } 
-  
-   .unemployment-text {
-    fill: blue;
-  }
-  
-  .new_deaths-text {
-    fill: green;
-  }  

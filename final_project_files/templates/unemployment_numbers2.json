@@ -1,0 +1,1772 @@
+[
+  {
+    "county": "Alameda County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 32700
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 40
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 810
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 6800
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 1180
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 2700
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 22700
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 740
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 4300
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 50200
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 1180
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 3100
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 15200
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 420
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 47500
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 7300
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 2110
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 710
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 327500
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 336200
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 6700
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 4300
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 570
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 2300
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 15300
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 370
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 430
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 26700
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 3000
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 2270
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 59000
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 7700
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 1020
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 59100
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 34300
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 2500
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 48200
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 66100
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 18100
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 27600
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 5400
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 12800
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 12300
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 35200
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 11400
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 5100
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 110
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 1760
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 10600
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 9500
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 20700
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 5400
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 1990
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 410
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 30400
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 1350
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 20000
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 6500
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Sun, 01 Mar 2020 00:00:00 GMT", 
+    "unemployment": 2700
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 112900
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 110
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 2090
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 14600
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 2740
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 2880
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 77800
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1270
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 13700
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 75900
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1830
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 8600
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 20200
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1130
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 69200
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 9700
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 4340
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1040
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 969300
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 989100
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 10400
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 14400
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1430
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 5520
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 21600
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 430
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1840
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 41400
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 11600
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 6550
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 212600
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 23500
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 1410
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 169500
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 99700
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 6100
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 127300
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 232800
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 69800
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 57900
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 18700
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 49000
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 29500
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 119400
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 23000
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 11200
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 170
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 2590
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 30400
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 36100
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 40800
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 8200
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 3650
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 550
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 37800
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 3800
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 57400
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 11800
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Wed, 01 Apr 2020 00:00:00 GMT", 
+    "unemployment": 4800
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 110100
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 110
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 2160
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 12200
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 2410
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 2100
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 73900
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 1210
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 13700
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 69200
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 1520
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 7300
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 19900
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 990
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 66600
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 8900
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 3950
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 890
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 980600
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 998700
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 9400
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 13400
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 1360
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 4850
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 18600
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 330
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 1860
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 33200
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 10500
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 5740
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 227100
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 22600
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 1060
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 172800
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 99300
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 4800
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 131400
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 235700
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 70400
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 53500
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 16800
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 48000
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 27100
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 113400
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 19000
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 9200
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 140
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 2130
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 28800
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 32100
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 37600
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 6900
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 3090
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 460
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 35000
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 3450
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 55400
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 10800
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Fri, 01 May 2020 00:00:00 GMT", 
+    "unemployment": 4400
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 111100
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 90
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 1840
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 11400
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 2270
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 1830
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 73400
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 1170
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 11700
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 65200
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 1420
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 7000
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 20100
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 920
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 65500
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 8200
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 3670
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 830
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 965500
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 958500
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 8600
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 13400
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 1110
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 4660
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 17900
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 300
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 1670
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 29300
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 9300
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 5390
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 217600
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 20400
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 930
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 161900
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 96200
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 4300
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 132200
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 219300
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 71200
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 51800
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 15200
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 47800
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 24700
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 110700
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 17400
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 8300
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 130
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 2020
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 27600
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 29400
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 35400
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 6500
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 2920
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 440
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 33400
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 2950
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 51900
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 10900
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Mon, 01 Jun 2020 00:00:00 GMT", 
+    "unemployment": 4100
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 100000
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 70
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1700
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 10400
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1990
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1490
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 66300
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1070
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 9200
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 60000
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1300
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 6300
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 19400
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 790
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 60900
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 7400
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 3160
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 760
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 916700
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 881800
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 7900
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 12000
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 860
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 4110
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 16200
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 260
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1140
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 24000
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 7700
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 4740
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 196800
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 17800
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 820
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 151300
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 88900
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 3700
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 126300
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 196100
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 63500
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 47700
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 13300
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 41500
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 21700
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 97600
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 14800
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 7500
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 110
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 1820
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 25400
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 25200
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 32300
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 5700
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 2670
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 390
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 30900
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 2510
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 47000
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 9900
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Wed, 01 Jul 2020 00:00:00 GMT", 
+    "unemployment": 3800
+  }, 
+  {
+    "county": "Alameda County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 79200
+  }, 
+  {
+    "county": "Alpine County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 50
+  }, 
+  {
+    "county": "Amador County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 1320
+  }, 
+  {
+    "county": "Butte County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 8400
+  }, 
+  {
+    "county": "Calaveras County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 1550
+  }, 
+  {
+    "county": "Colusa County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 1100
+  }, 
+  {
+    "county": "Contra Costa County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 52400
+  }, 
+  {
+    "county": "Del Norte County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 880
+  }, 
+  {
+    "county": "El Dorado County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 7100
+  }, 
+  {
+    "county": "Fresno County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 48400
+  }, 
+  {
+    "county": "Glenn County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 1010
+  }, 
+  {
+    "county": "Humboldt County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 4900
+  }, 
+  {
+    "county": "Imperial County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 15900
+  }, 
+  {
+    "county": "Inyo County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 610
+  }, 
+  {
+    "county": "Kern County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 48500
+  }, 
+  {
+    "county": "Kings County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 5900
+  }, 
+  {
+    "county": "Lake County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 2530
+  }, 
+  {
+    "county": "Lassen County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 600
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 818300
+  }, 
+  {
+    "county": "Los Angeles County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 795300
+  }, 
+  {
+    "county": "Madera County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 6200
+  }, 
+  {
+    "county": "Marin County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 9300
+  }, 
+  {
+    "county": "Mariposa County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 670
+  }, 
+  {
+    "county": "Mendocino County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 3230
+  }, 
+  {
+    "county": "Merced County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 12800
+  }, 
+  {
+    "county": "Modoc County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 210
+  }, 
+  {
+    "county": "Mono County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 800
+  }, 
+  {
+    "county": "Monterey County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 18300
+  }, 
+  {
+    "county": "Napa County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 5900
+  }, 
+  {
+    "county": "Nevada County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 3650
+  }, 
+  {
+    "county": "Orange County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 153800
+  }, 
+  {
+    "county": "Placer County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 14000
+  }, 
+  {
+    "county": "Plumas County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 650
+  }, 
+  {
+    "county": "Riverside County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 120700
+  }, 
+  {
+    "county": "Sacramento County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 72400
+  }, 
+  {
+    "county": "San Benito County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 2800
+  }, 
+  {
+    "county": "San Bernardino County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 102400
+  }, 
+  {
+    "county": "San Diego County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 154300
+  }, 
+  {
+    "county": "San Francisco County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 49800
+  }, 
+  {
+    "county": "San Joaquin County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 38400
+  }, 
+  {
+    "county": "San Luis Obispo County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 10200
+  }, 
+  {
+    "county": "San Mateo County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 33000
+  }, 
+  {
+    "county": "Santa Barbara County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 16800
+  }, 
+  {
+    "county": "Santa Clara County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 76900
+  }, 
+  {
+    "county": "Santa Cruz County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 11300
+  }, 
+  {
+    "county": "Shasta County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 6000
+  }, 
+  {
+    "county": "Sierra County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 90
+  }, 
+  {
+    "county": "Siskiyou County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 1440
+  }, 
+  {
+    "county": "Solano County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 20700
+  }, 
+  {
+    "county": "Sonoma County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 19500
+  }, 
+  {
+    "county": "Stanislaus County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 25700
+  }, 
+  {
+    "county": "Sutter County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 4400
+  }, 
+  {
+    "county": "Tehama County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 2140
+  }, 
+  {
+    "county": "Trinity County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 310
+  }, 
+  {
+    "county": "Tulare County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 24800
+  }, 
+  {
+    "county": "Tuolumne County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 2000
+  }, 
+  {
+    "county": "Ventura County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 36900
+  }, 
+  {
+    "county": "Yolo County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 7800
+  }, 
+  {
+    "county": "Yuba County", 
+    "date": "Sat, 01 Aug 2020 00:00:00 GMT", 
+    "unemployment": 3000
+  }
+]
